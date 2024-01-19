@@ -1,0 +1,240 @@
+Country,Code,Flag
+Afghanistan,AF,af-flag
+Albania,AL,al-flag
+Algeria,DZ,dz-flag
+American Samoa,AS,as-flag
+Andorra,AD,ad-flag
+Angola,AO,ao-flag
+Anguilla,AI,ai-flag
+Antarctica,AQ,aq-flag
+Antigua and Barbuda,AG,ag-flag
+Argentina,AR,ar-flag
+Armenia,AM,am-flag
+Aruba,AW,aw-flag
+Australia,AU,au-flag
+Austria,AT,at-flag
+Azerbaijan,AZ,az-flag
+Bahamas,BS,bs-flag
+Bahrain,BH,bh-flag
+Bangladesh,BD,bd-flag
+Barbados,BB,bb-flag
+Belarus,BY,by-flag
+Belgium,BE,be-flag
+Belize,BZ,bz-flag
+Benin,BJ,bj-flag
+Bermuda,BM,bm-flag
+Bhutan,BT,bt-flag
+Bolivia,BO,bo-flag
+Bosnia and Herzegovina,BA,ba-flag
+Botswana,BW,bw-flag
+Brazil,BR,br-flag
+British Indian Ocean Territory,IO,io-flag
+British Virgin Islands,VG,vg-flag
+Brunei,BN,bn-flag
+Bulgaria,BG,bg-flag
+Burkina Faso,BF,bf-flag
+Burundi,BI,bi-flag
+Cambodia,KH,kh-flag
+Cameroon,CM,cm-flag
+Canada,CA,ca-flag
+Cape Verde,CV,cv-flag
+Cayman Islands,KY,ky-flag
+Central African Republic,CF,cf-flag
+Chad,TD,td-flag
+Chile,CL,cl-flag
+China,CN,cn-flag
+Christmas Island,CX,cx-flag
+Cocos Islands,CC,cc-flag
+Colombia,CO,co-flag
+Comoros,KM,km-flag
+Cook Islands,CK,ck-flag
+Costa Rica,CR,cr-flag
+Croatia,HR,hr-flag
+Cuba,CU,cu-flag
+Curacao,CW,cw-flag
+Cyprus,CY,cy-flag
+Czech Republic,CZ,cz-flag
+Democratic Republic of the Congo,CD,cd-flag
+Denmark,DK,dk-flag
+Djibouti,DJ,dj-flag
+Dominica,DM,dm-flag
+Dominican Republic,DO,do-flag
+East Timor,TL,tl-flag
+Ecuador,EC,ec-flag
+Egypt,EG,eg-flag
+El Salvador,SV,sv-flag
+Equatorial Guinea,GQ,gq-flag
+Eritrea,ER,er-flag
+Estonia,EE,ee-flag
+Ethiopia,ET,et-flag
+Falkland Islands,FK,fk-flag
+Faroe Islands,FO,fo-flag
+Fiji,FJ,fj-flag
+Finland,FI,fi-flag
+France,FR,fr-flag
+French Polynesia,PF,pf-flag
+Gabon,GA,ga-flag
+Gambia,GM,gm-flag
+Georgia,GE,ge-flag
+Germany,DE,de-flag
+Ghana,GH,gh-flag
+Gibraltar,GI,gi-flag
+Greece,GR,gr-flag
+Greenland,GL,gl-flag
+Grenada,GD,gd-flag
+Guam,GU,gu-flag
+Guatemala,GT,gt-flag
+Guernsey,GG,gg-flag
+Guinea,GN,gn-flag
+Guinea-Bissau,GW,gw-flag
+Guyana,GY,gy-flag
+Haiti,HT,ht-flag
+Honduras,HN,hn-flag
+Hong Kong,HK,hk-flag
+Hungary,HU,hu-flag
+Iceland,IS,is-flag
+India,IN,in-flag
+Indonesia,ID,id-flag
+Iran,IR,ir-flag
+Iraq,IQ,iq-flag
+Ireland,IE,ie-flag
+Isle of Man,IM,im-flag
+Israel,IL,il-flag
+Italy,IT,it-flag
+Ivory Coast,CI,ci-flag
+Jamaica,JM,jm-flag
+Japan,JP,jp-flag
+Jersey,JE,je-flag
+Jordan,JO,jo-flag
+Kazakhstan,KZ,kz-flag
+Kenya,KE,ke-flag
+Kiribati,KI,ki-flag
+Kosovo,XK,xk-flag
+Kuwait,KW,kw-flag
+Kyrgyzstan,KG,kg-flag
+Laos,LA,la-flag
+Latvia,LV,lv-flag
+Lebanon,LB,lb-flag
+Lesotho,LS,ls-flag
+Liberia,LR,lr-flag
+Libya,LY,ly-flag
+Liechtenstein,LI,li-flag
+Lithuania,LT,lt-flag
+Luxembourg,LU,lu-flag
+Macau,MO,mo-flag
+Macedonia,MK,mk-flag
+Madagascar,MG,mg-flag
+Malawi,MW,mw-flag
+Malaysia,MY,my-flag
+Maldives,MV,mv-flag
+Mali,ML,ml-flag
+Malta,MT,mt-flag
+Marshall Islands,MH,mh-flag
+Mauritania,MR,mr-flag
+Mauritius,MU,mu-flag
+Mayotte,YT,yt-flag
+Mexico,MX,mx-flag
+Micronesia,FM,fm-flag
+Moldova,MD,md-flag
+Monaco,MC,mc-flag
+Mongolia,MN,mn-flag
+Montenegro,ME,me-flag
+Montserrat,MS,ms-flag
+Morocco,MA,ma-flag
+Mozambique,MZ,mz-flag
+Myanmar,MM,mm-flag
+Namibia,NA,na-flag
+Nauru,NR,nr-flag
+Nepal,NP,np-flag
+Netherlands,NL,nl-flag
+Netherlands Antilles,AN,an-flag
+New Caledonia,NC,nc-flag
+New Zealand,NZ,nz-flag
+Nicaragua,NI,ni-flag
+Niger,NE,ne-flag
+Nigeria,NG,ng-flag
+Niue,NU,nu-flag
+North Korea,KP,kp-flag
+Northern Mariana Islands,MP,mp-flag
+Norway,NO,no-flag
+Oman,OM,om-flag
+Pakistan,PK,pk-flag
+Palau,PW,pw-flag
+Palestine,PS,ps-flag
+Panama,PA,pa-flag
+Papua New Guinea,PG,pg-flag
+Paraguay,PY,py-flag
+Peru,PE,pe-flag
+Philippines,PH,ph-flag
+Pitcairn,PN,pn-flag
+Poland,PL,pl-flag
+Portugal,PT,pt-flag
+Puerto Rico,PR,pr-flag
+Qatar,QA,qa-flag
+Republic of the Congo,CG,cg-flag
+Reunion,RE,re-flag
+Romania,RO,ro-flag
+Russia,RU,ru-flag
+Rwanda,RW,rw-flag
+Saint Barthelemy,BL,bl-flag
+Saint Helena,SH,sh-flag
+Saint Kitts and Nevis,KN,kn-flag
+Saint Lucia,LC,lc-flag
+Saint Martin,MF,mf-flag
+Saint Pierre and Miquelon,PM,pm-flag
+Saint Vincent and the Grenadines,VC,vc-flag
+Samoa,WS,ws-flag
+San Marino,SM,sm-flag
+Sao Tome and Principe,ST,st-flag
+Saudi Arabia,SA,sa-flag
+Senegal,SN,sn-flag
+Serbia,RS,rs-flag
+Seychelles,SC,sc-flag
+Sierra Leone,SL,sl-flag
+Singapore,SG,sg-flag
+Sint Maarten,SX,sx-flag
+Slovakia,SK,sk-flag
+Slovenia,SI,si-flag
+Solomon Islands,SB,sb-flag
+Somalia,SO,so-flag
+South Africa,ZA,za-flag
+South Korea,KR,kr-flag
+South Sudan,SS,ss-flag
+Spain,ES,es-flag
+Sri Lanka,LK,lk-flag
+Sudan,SD,sd-flag
+Suriname,SR,sr-flag
+Svalbard and Jan Mayen,SJ,sj-flag
+Swaziland,SZ,sz-flag
+Sweden,SE,se-flag
+Switzerland,CH,ch-flag
+Syria,SY,sy-flag
+Taiwan,TW,tw-flag
+Tajikistan,TJ,tj-flag
+Tanzania,TZ,tz-flag
+Thailand,TH,th-flag
+Togo,TG,tg-flag
+Tokelau,TK,tk-flag
+Tonga,TO,to-flag
+Trinidad and Tobago,TT,tt-flag
+Tunisia,TN,tn-flag
+Turkey,TR,tr-flag
+Turkmenistan,TM,tm-flag
+Turks and Caicos Islands,TC,tc-flag
+Tuvalu,TV,tv-flag
+U.S. Virgin Islands,VI,vi-flag
+Uganda,UG,ug-flag
+Ukraine,UA,ua-flag
+United Arab Emirates,AE,ae-flag
+United Kingdom,GB,gb-flag
+United States,US,us-flag
+Uruguay,UY,uy-flag
+Uzbekistan,UZ,uz-flag
+Vanuatu,VU,vu-flag
+Vatican City,VA,va-flag
+Venezuela,VE,ve-flag
+Vietnam,VN,vn-flag
+Wallis and Futuna,WF,wf-flag
+Yemen,YE,ye-flag
+Zambia,ZM,zm-flag
+Zimbabwe,ZW,zw-flag

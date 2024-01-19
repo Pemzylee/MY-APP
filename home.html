@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Main Page - CHAT ME</title>
+    <link rel="icon" type="image/jpg" sizes="32x32" href="C.jpg">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="fontawesome-free-6.5.1-web/css/all.min.css">
+
+
+</head>
+<body>
+    <main class="modal" id="modal">
+        <section class="login-cont">
+            <form action="#" method="post" class="modal-content animate">
+                <div class="img">
+                    <img src="C.png" alt="Your App Logo">
+                </div>
+
+                <div class="container">
+                    <label for="username"> <div class="p"><span id="errorName"></span></div>Username</label>
+                    <input type="text" placeholder="Enter Username" name="username" id="input-name">
+
+                    <label for="password"> <div class="p"><span id="errorPassword"></span></div>Password</label>
+                    <input type="password" placeholder="Enter Password" name="password" id="input-password">
+
+                    <div class="remember-cont">
+                        <input type="checkbox" checked="checked" name="remember" class="remember-me">
+                        <label for="remember">Remember Me</label>
+                    </div>
+
+                    <button type="submit" id="loginbtn">Login</button>
+
+                    <!-- <button type="button" id="create-btn">Create a New Account</button> -->
+                    <div class="register">
+                        <p>Don't have an account? <a href="#" type="button" id="create-btn">Register</a></ul></p>
+                    </div>
+                </div>
+            </form>
+        </section>
+
+        <section class="signup-cont">
+            <form action="#" method="post" class="modal-content animate" id="signup-content">
+                <div class="img">
+                    <img src="C.png" alt="Your App Logo">
+                </div>
+
+                <div class="container" id="signup-container">
+                    <label for="email"> <div class="p"><span id="errorEmailSignup"></span></div>Email Address</label>
+                    <input type="text" placeholder="Email Address" name="email" id="input-email-signup">
+                    
+                    <label for="username"> <div class="p"><span id="errorNameSignup"></span></div>Username</label>
+                    <input type="text" placeholder="Enter Username" name="username" id="input-name-signup">
+                    
+                    <label for="password">Password</label>
+                    <span id="errorPasswordSignup"></span>
+                    <input type="password" placeholder="Enter Password" name="password" id="input-password-signup" required>
+                    
+                    <label for="confirm_password">Re-enter Password:</label>
+                    <span id="errorRetypePasswordSignup"></span>
+                    <input type="password" id="confirm_password_signup" name="confirm_password" placeholder="Re-enter Password" required>
+
+                    <div class="remember-cont">
+                        <input type="checkbox" checked="checked" name="remember" class="remember-me">
+                        <label for="remember">Remember Me</label>
+                    </div>
+
+                    <button type="submit" class="signup" id="signup-btn">Sign-up</button>
+
+                    <!-- <button type="submit" id="back-to-login">Back to Login</button> -->
+
+                    <div class="signup-login">
+                        <p>I have an account? <a href="#" type="submit" id="back-to-login">Log-in</a></ul></p>
+                    </div>
+                </div>
+
+                <div id="phone-number-validation">
+                    <h1>Phone number validation</h1>
+                    <form>
+                        <input type="tel" id="phone" placeholder="Phone Number">
+                        <dic class="comfirmotp">
+                            <input type="code" id="OTP" placeholder="000 000">
+                        </dic>
+                        <button type="submit" id="submit">Submit</button>
+                    </form>
+                
+                    <script src="./build/js/intlTelInput.js"></script>
+                    <script>
+                      var input = document.querySelector("#phone")
+                      window.intlTelInput(input,{});
+                    </script>
+                </div>
+            </form>
+        </section>  
+    </main>
+
+    <script src="pop.js"></script>
+
+
+    <header>
+        <nav class="nav-bar">
+            <i class="fa-solid fa-user" id="profile-icon"></i>
+
+            <div class="dropdown-content">
+                <a href="#">Profile</a>
+                <a href="#">Settings</a>
+                <a href="#">Log-out</a>
+              </div>
+        </nav>
+    </header>
+
+    <div class="message-container">
+        <input id="search-input" type="text" name="search" placeholder="Search Messenger" oninput="searchFunction()">
+        <i class="fas fa-search"></i>
+    </div>
+    
+    <i class="fa-messages" style="color: #b3adad;"></i>
+</body>
+</html>
